@@ -1,4 +1,9 @@
 ### Olá!eu sou o Lucas Cruz 🖐🏽
+
+  -📚 Estou atualmente estudando Javascript
+  -👨🏽‍🎓 Fazendo faculdade de Ciência da Computação
+  -👨‍💻 Em busca de me tornar um Dev Front-End
+
   <div>
         <div> 
         <a href="https://www.youtube.com/channel/UC1zXDuyUl0afyHJ4rZeshgw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -9,12 +14,11 @@
          </div>  
   
 
- <div align="center">
+ <div align="left">
    
   <a href="https://github.com/LucasCruzZ4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCruzZ4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCruzZ4&layout=compact&langs_count=7&theme=radical"/>
-    
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCruzZ4&layout=compact&langs_count=7&theme=radical"/>   
 </div>
     
   
