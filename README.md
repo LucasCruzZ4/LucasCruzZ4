@@ -1,4 +1,4 @@
-### Olá!eu sou o Lucas Cruz 🖐🏽
+## Olá!eu sou o Lucas Cruz 🖐🏽
 
   -📚 Estou atualmente estudando Javascript
   -👨🏽‍🎓 Fazendo faculdade de Ciência da Computação
