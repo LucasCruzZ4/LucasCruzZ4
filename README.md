@@ -1,8 +1,8 @@
 ## Olá!eu sou o Lucas Cruz 🖐🏽
 
-  -📚 Estou atualmente estudando Javascript
+  -📚 Estou atualmente estudando Java
   -👨🏽‍🎓 Fazendo faculdade de Ciência da Computação
-  -👨‍💻 Em busca de me tornar um Dev Front-End
+  -👨‍💻 Em busca de me tornar um Dev-Back-end
 
   <div>
         <div> 
